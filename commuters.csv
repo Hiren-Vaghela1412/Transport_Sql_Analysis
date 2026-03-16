@@ -1,0 +1,6 @@
+commuter_id,commuter_name,age,gender,city_zone,card_type
+1,Rohit Malhotra,29,M,North,Monthly Pass
+2,Ananya Iyer,34,F,Central,Pay Per Ride
+3,Kunal Shah,22,M,West,Student Pass
+4,Meera Joshi,41,F,East,Monthly Pass
+5,Arvind Patel,55,M,South,Senior Citizen

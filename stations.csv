@@ -1,0 +1,6 @@
+station_id,station_name,zone,station_type
+101,Andheri,West,Metro
+102,Dadar,Central,Metro
+103,Borivali,North,Metro
+104,Bandra,West,Bus
+105,Thane,East,Bus
