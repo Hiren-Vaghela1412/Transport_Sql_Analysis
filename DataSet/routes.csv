@@ -1,0 +1,5 @@
+route_id,source_station,destination_station,distance_km,route_type
+201,101,102,18,Metro
+202,103,102,22,Metro
+203,104,105,15,Bus
+204,105,101,20,Bus
